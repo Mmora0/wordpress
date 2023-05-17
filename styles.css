@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 156);
+}
+h2{
+    color: blueviolet;
+}
+p{
+    color: rgb(92, 4, 175);
+    font-size: larger;
+}
+.xampp:hover {
+    background-color: rgb(117, 187, 210);
+}
+.word:hover{
+    background-color: rgb(76, 211, 252);
+}
+.pagina:hover {
+    background-color: rgb(89, 145, 164);
+}
+
